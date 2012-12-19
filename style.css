@@ -1,0 +1,13 @@
+
+
+#subhead {
+	text-align:center;
+	line-height: 1.2em;
+	color: #666;
+	margin-bottom: 2em;
+}
+#screenshot {
+  -moz-box-shadow:    0 3px 15px 0px #aaa;
+  -webkit-box-shadow: 0 3px 15px 0px #aaa;
+  box-shadow:         0 3px 15px 0px #aaa;
+}
