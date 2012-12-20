@@ -1,4 +1,5 @@
 <?php include('includes/header.php'); ?>
+<?php //include('includes/sites.php'); ?>
 		
 		<div style="text-align:center">
 			<img src="img/ribbon.png?v=2" />
@@ -21,27 +22,26 @@
 			
 			<h3 style="line-height: 1.4em; margin-bottom: 1em;">Have your website automatically "go silent" <br />during the national moment of silence</h3>
 		
-		<p>Simply install a line of javascript in your website to participate automatically in Friday's moment of silence.</p>
-		<p>Sign up here and we'll let you know when the javascript code is ready.</p>
+		<p>Simply install the following javascript in your website<br />	 to participate automatically in Friday's moment of silence.</p>
 		
-		<form id="form19" name="form19" class="form-inline" autocomplete="off" enctype="multipart/form-data" method="post" novalidate
-		action="https://wrkng.wufoo.com/forms/z7x1k9/#public">
-				
-		<label>Website:</label>		
-				
-		<input id="Field2" name="Field2" type="url" class="input field text medium" value="http://" maxlength="255" tabindex="1" placeholder="Website URL" /> 
-		
-		<input id="Field1" name="Field1" type="email" spellcheck="false" class="input field text medium" value="" maxlength="255" tabindex="2" placeholder="Your Email" /> 
-		
-		
-		<button id="saveForm" name="saveForm" 
-type="submit" type="submit" class="btn">Go</button>
-						
+<textarea name="output" id="code" readonly>&lt;script src="//www.causes.com/moment_of_silence.js"&gt;
+	showText: true;  
+	text: 'Find out how you can stay involved.'; 
+	url: 'http://causes.com/momentforsandyhook'; 
+&lt;/script&gt;</textarea>
 	
-		<input type="hidden" id="idstamp" name="idstamp" value="OZAEcD2w8mf8lV0p6HOP6x3zTtHPBFK62kFI49Q3Uos=" />
-		
-		</form> 
-	 
+	<div id="docs">
+	<p>The overlay includes an optional call-to-action link.  This link allows you to direct readers to a follow-up page for more information or to take an action.  This is configurable, and defaults to the <a href="http://causes.com/momentforsandyhook">Sandy Hook Campaign on Causes.com</a>.</p>
+
+	<p><b>showText</b>: set this to <code>false</code> to not display any call-to-action link.</p>
+	<p><b>text</b>: the text of the call-to-action link.</p>
+	<p><b>url</b>: the URL of the call-to-action link.</p>
+ </div>
+ <br />
+ <p>
+ <a href="./?force_the_moment" class="btn btn-large btn-primary">Click here to demonstrate</a>
+</p>
+
 </div>
 
 <hr />
@@ -98,13 +98,22 @@ type="submit" type="submit" class="btn">Go</button>
 			A large community of members from the tech community have come together to help bring focus to the events at Sandy Hook and the broader issue of gun violence in America.  This website was built by <a href="http://nickgrossman.is">Nick Grossman</a> in collaboration with <a href="http://causes.com">Causes</a> and <a href="http://svangel.com">SVAngel</a>.
 		</div>
 		
-	</div>
- 
-
- 
- 
+	</div> 
  
 </section>
 
+<hr />
+
+<?php /*
+<section id="sites">
+	<h3>Participating sites</h3>
+	<?php foreach ($sites as $site) : ?>
+	<div class="span2">
+		<a href="http://<?php echo $site['url']; ?>"><?php echo $site['name']; ?></a>	
+	</div>
+	<?php endforeach; ?>
+	<br />
+</section>
+*/ ?>
 	 
 <?php include('includes/footer.php'); ?>

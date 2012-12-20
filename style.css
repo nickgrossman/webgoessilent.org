@@ -22,6 +22,18 @@
   box-shadow:         0 3px 15px 0px #333;
 }
 
+#code {
+	
+	width: 400px;
+	height: 100px;
+	padding: 15px;
+}
+
+#docs {
+	text-align: left;
+	margin: 10px 125px 0;
+}
+
 #links {
 	text-align:center;
 	color: #999;
@@ -41,6 +53,10 @@
 }
 .answer {
 	margin-bottom: 20px;
+}
+
+#sites  {
+	text-align: center;
 }
 
 footer {
