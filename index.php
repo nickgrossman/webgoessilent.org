@@ -43,6 +43,55 @@ type="submit" type="submit" class="btn">Go</button>
 		</form> 
 	 
 </div>
+
+<hr />
+
+<section id="faq">
+	
+	<h3> Frequently asked questions</h3>
+	<br />
+	<div class="row">
+		<div class="span3 offset1 question">
+			How does this work?
+		</div>
+		<div class="span4 answer">
+			Simply install <code>&lt;script&gt;</code> tag on your site, and at 9:30am ET tomorrow your site will automatically "go silent" with a respectful, thoughtful overlay.
+		</div>
+		
+	</div>		
+	<div class="row">
+		<div class="span3 offset1 question">
+			What code!?  I don't see any.
+		</div>
+		<div class="span4 answer">
+			Correct.  It's not quite ready yet, but please sign up and we'll email you today when it is.
+		</div>
+		
+	</div>	
+	<div class="row">
+		<div class="span3 offset1 question">
+			Does participation in this represent a particular political agenda?
+		</div>
+		<div class="span4 answer">
+			No.  When you install the  <code>&lt;script&gt;</code> tag on your site, you can configure a link which will take people to more information.  By default, that will link to <a href="http://www.causes.com/causes/807161-stand-with-sandy-hook/">this campaign on Causes.com</a> where your visitors can sign up for further updates.  If you want to remove that link entirely or change it to a different one, that's fine.
+		</div>
+		
+	</div>
+	<div class="row">
+		<div class="span3 offset1 question">
+			Who is organizing this?
+		</div>
+		<div class="span4 answer">
+			A large community of members from the tech community have come together to help bring focus to the events at Sandy Hook and the broader issue of gun violence in America.  This website was built by <a href="http://nickgrossman.is">Nick Grossman</a> in partnership with <a href="http://causes.com">Causes</a> and <a href="http://svangel.com">SVAngel</a>.
+		</div>
+		
+	</div>
+	
+	
+</section>
+
+<hr />
+
  
  <section id="links">
  
@@ -52,18 +101,20 @@ type="submit" type="submit" class="btn">Go</button>
 	 
 	 <div class="span2">
 		 <a href="http://www.causes.com/causes/807161-stand-with-sandy-hook/actions/1716727"><img src="img/ribbon-150.png?v=2" /></a>
-	 </div>
-	 <div class="span3">
+	 <p>
 	 	Find more ways to support the Sandy Hook cause at <a href="http://www.causes.com/causes/807161-stand-with-sandy-hook/">this campaign on Causes</a>.
-	 </div>
+	</p>
+</div>
 
- 	 <div class="span2 offset1">
+ 	 <div class="span2">
  		 <a href="http://demandaplan.org"><img src="img/mayors.png" /></a>
- 	 </div>
- 	 <div class="span3">
+ 	 <p>
  	 	Join the grassroots movement to end gun violence at <a href="http://demandaplan.org">Demand a Plan</a>.
+ 	 </p>
  	 </div>
  </div>
+ 
+ 
  
 </section>
 

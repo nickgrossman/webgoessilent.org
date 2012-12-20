@@ -23,15 +23,24 @@
 }
 
 #links {
+	text-align:center;
 	color: #999;
 }
 
-#links h3 {
+#links h3,
+#faq h3 {
 	text-align: center;
 }
 
 #links a {
 	color: #999;
+}
+
+.question {
+	font-weight: bold;
+}
+.answer {
+	margin-bottom: 20px;
 }
 
 footer {
