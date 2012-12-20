@@ -75,10 +75,21 @@ type="submit" type="submit" class="btn">Go</button>
 			Does participation in this represent a particular political agenda?
 		</div>
 		<div class="span4 answer">
-			No.  When you install the  <code>&lt;script&gt;</code> tag on your site, you can configure a link which will take people to more information.  By default, that will link to <a href="http://www.causes.com/causes/807161-stand-with-sandy-hook/">this campaign on Causes.com</a> where your visitors can sign up for further updates.  If you want to remove that link entirely or change it to a different one, that's fine.
+			No.  The groups involved in this effort span the spectrum of political affiliation and policy agendas.  What we have in common is that we are looking for ways to reduce the impact of gun violence on our society.  We respect the diversity of opinion and expression on the web, and hope that this effort can spark and ongoing productive conversation.
+			
 		</div>
 		
 	</div>
+	<div class="row">
+		<div class="span2 offset1 question">
+			What does the "Find out what else you can do" link go do?
+		</div>
+		<div class="span4 answer">
+		When you install the  <code>&lt;script&gt;</code> tag on your site, you can configure a link which will take people to more information.  By default, that will link to <a href="http://www.causes.com/causes/807161-stand-with-sandy-hook/">this campaign on Causes.com</a> where your visitors can sign up for further updates.  If you want to remove that link entirely or change it to a different one, that's fine.
+		</div>
+		
+	</div>
+	
 	<div class="row">
 		<div class="span2 offset1 question">
 			Who is organizing this?
@@ -94,6 +105,40 @@ type="submit" type="submit" class="btn">Go</button>
 
 
 
+<hr />
+
+ 
+ <section id="links">
+ 
+ <h3 id="links">Other ways to get involved</h3><br />
+ 
+ <div class="row">
+	 
+	 <div class="span2">
+		 <a href="http://www.causes.com/causes/807161-stand-with-sandy-hook/actions/1716727"><img src="img/ribbon-150.png?v=2" /></a>
+	 <p>
+	 	Find more ways to support the Sandy Hook cause at <a href="http://www.causes.com/causes/807161-stand-with-sandy-hook/">this campaign on Causes</a>.
+	</p>
+</div>
+
+ 	 <div class="span2">
+ 		 <a href="http://demandaplan.org"><img src="img/mayors.png" /></a>
+ 	 <p>
+ 	 	Join the grassroots movement to end gun violence at <a href="http://demandaplan.org">Demand a Plan</a>.
+ 	 </p>
+ 	 </div>
+
+	<div class="span2">
+		If you know of other places on the web where thoughtful discussions on how to reduce gun violence are taking place, please <a href="https://wrkng.wufoo.com/forms/where-the-web-is-discussing-gun-violence/" style="text-decoration:underline">let us know</a> and we'll add them here.
+	</div>
+
+ </div>
+ 
+
+ 
+ 
+ 
+</section>
 
 	 
 <?php include('includes/footer.php'); ?>
