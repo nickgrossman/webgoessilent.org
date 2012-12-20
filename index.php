@@ -74,8 +74,8 @@ type="submit" type="submit" class="btn">Go</button>
 <hr />
 	<div class="row">
 	
-	<div class="span2 offset1">
-			 <p>[we will add more here]</p>
+	<div class="span4 offset3">
+			 <p><a href="http://wrkng.wufoo.com/forms/where-the-web-is-discussing-gun-violence/">Let us know</a> where else the web is having thoughtful discussions about gun violence and we will post links here.	</p>
 		</div>
 	</div>	
 	 
