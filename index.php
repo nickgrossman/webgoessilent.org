@@ -17,9 +17,7 @@
 		
 		<p style="text-align:right; color: #ccc; padding-top: 10px; font-size: .9em">Yahoo.com shown above for demonstration purposes only</p>
 		
-		<hr />
-		
-		<center>
+		<div id="call-to-action">
 			
 			<h3 style="line-height: 1.4em; margin-bottom: 1em;">Have your website automatically "go silent" <br />during the national moment of silence</h3>
 		
@@ -44,9 +42,7 @@ type="submit" type="submit" class="btn">Go</button>
 		
 		</form> 
 	 
- </center>
- 
- <hr />
+</div>
  
  <center>
 	 <h3>Other ways to get involved:</h3><br />
