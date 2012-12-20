@@ -58,7 +58,7 @@ type="submit" type="submit" class="btn">Go</button>
 		 <a href="http://www.causes.com/causes/807161-stand-with-sandy-hook/actions/1716727"><img src="img/ribbon-150.png" /></a>
 	 </div>
 	 <div class="span4">
-	 	Add the Moment of Silence badge to your website by visiting <a href="http://www.causes.com/causes/807161-stand-with-sandy-hook/actions/1716727">this campaign on Causes</a>.
+	 	Find more ways to support the Sandy Hook cause at <a href="http://www.causes.com/causes/807161-stand-with-sandy-hook/">this campaign on Causes</a>.
 	 </div>
  </div>
  <hr />
