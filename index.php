@@ -8,7 +8,7 @@
 		
 		<hr />
 
-		<h1>The web goes silent for Sandy Hook</h1>
+		<h1>A web-wide moment of silence for Sandy Hook</h1>
 		<hr />
 		
 		<h3 id="subhead">Join the web in observing a moment of silence to remember the victims of the Sandy Hook tragedy.</h3>
