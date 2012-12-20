@@ -50,8 +50,9 @@ type="submit" type="submit" class="btn">Go</button>
 	
 	<h3> Frequently asked questions</h3>
 	<br />
+	
 	<div class="row">
-		<div class="span3 offset1 question">
+		<div class="span2 offset1 question">
 			How does this work?
 		</div>
 		<div class="span4 answer">
@@ -59,8 +60,9 @@ type="submit" type="submit" class="btn">Go</button>
 		</div>
 		
 	</div>		
+
 	<div class="row">
-		<div class="span3 offset1 question">
+		<div class="span2 offset1 question">
 			What code!?  I don't see any.
 		</div>
 		<div class="span4 answer">
@@ -69,7 +71,7 @@ type="submit" type="submit" class="btn">Go</button>
 		
 	</div>	
 	<div class="row">
-		<div class="span3 offset1 question">
+		<div class="span2 offset1 question">
 			Does participation in this represent a particular political agenda?
 		</div>
 		<div class="span4 answer">
@@ -78,7 +80,7 @@ type="submit" type="submit" class="btn">Go</button>
 		
 	</div>
 	<div class="row">
-		<div class="span3 offset1 question">
+		<div class="span2 offset1 question">
 			Who is organizing this?
 		</div>
 		<div class="span4 answer">
