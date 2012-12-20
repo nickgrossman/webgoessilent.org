@@ -22,6 +22,18 @@
   box-shadow:         0 3px 15px 0px #333;
 }
 
+#links {
+	color: #999;
+}
+
+#links h3 {
+	text-align: center;
+}
+
+#links a {
+	color: #999;
+}
+
 footer {
 	text-align: center;
 	color: #ccc;
