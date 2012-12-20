@@ -24,7 +24,7 @@
 		
 		<p>Simply install the following javascript in your website<br />	 to participate automatically in Friday's moment of silence.</p>
 		
-<textarea name="output" id="code" readonly>&lt;script src="//www.causes.com/moment_of_silence.js"&gt;
+<textarea name="output" id="code" readonly>&lt;script src="http://www.causes.com/moment_of_silence.js"&gt;
 	showText: true;  
 	text: 'Find out how you can stay involved.'; 
 	url: 'http://causes.com/momentforsandyhook'; 

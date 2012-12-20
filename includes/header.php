@@ -8,11 +8,11 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 	
-	<script type="text/javascript" src="http://www.causes.com/moment_of_silence.js">
-		showText: true;  
-		text: 'Find out how you can stay involved.'; 
-		url: 'http://causes.com/momentforsandyhook'; 
-	</script>
+<script src="http://www.causes.com/moment_of_silence.js">
+	showText: true;  
+	text: 'Find out how you can stay involved.'; 
+	url: 'http://causes.com/momentforsandyhook'; 
+</script>
 
 	<!-- Le styles -->
 	<link href="bootstrap/css/bootstrap.css" rel="stylesheet">
