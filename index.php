@@ -84,7 +84,7 @@ type="submit" type="submit" class="btn">Go</button>
 			Who is organizing this?
 		</div>
 		<div class="span4 answer">
-			A large community of members from the tech community have come together to help bring focus to the events at Sandy Hook and the broader issue of gun violence in America.  This website was built by <a href="http://nickgrossman.is">Nick Grossman</a> in partnership with <a href="http://causes.com">Causes</a> and <a href="http://svangel.com">SVAngel</a>.
+			A large community of members from the tech community have come together to help bring focus to the events at Sandy Hook and the broader issue of gun violence in America.  This website was built by <a href="http://nickgrossman.is">Nick Grossman</a> in collaboration with <a href="http://causes.com">Causes</a> and <a href="http://svangel.com">SVAngel</a>.
 		</div>
 		
 	</div>
