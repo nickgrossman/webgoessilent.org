@@ -48,7 +48,7 @@
 	  }
 	</style>
 	<link href="bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
-	<link href="style.css" rel="stylesheet">
+	<link href="style.css?v=2" rel="stylesheet">
 
 	<!-- JavaScript -->
 	<script src="wufoo/scripts/wufoo.js"></script>

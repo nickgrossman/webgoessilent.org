@@ -1,3 +1,12 @@
+
+	<hr />
+
+	<footer>
+		<p class="subtle">
+			Built by <a href="http://nickgrossman.is">@nickgrossman</a> and the team at <a href="http://causes.com">Causes</a>
+		</p>
+	</footer>
+
 	</div> <!-- /container -->
 	
 		<!-- Le javascript
