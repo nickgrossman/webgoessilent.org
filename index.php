@@ -69,7 +69,14 @@ type="submit" type="submit" class="btn">Go</button>
  	 <div class="span4">
  	 	Find other ways to get involved at <a href="http://demandaplan.org">Demand a Plan</a>.
  	 </div>
-  </div>
-		
+ </div>
+
+<hr />
+	<div class="row">
+	
+	<div class="span2 offset1">
+			 <p>[we will add more here]</p>
+		</div>
+	</div>	
 	 
 <?php include('includes/footer.php'); ?>
