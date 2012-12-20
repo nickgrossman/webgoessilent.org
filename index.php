@@ -13,7 +13,7 @@
 		
 		<h3 id="subhead">Join the web in observing a moment of silence to remember the victims of the Sandy Hook tragedy.</h3>
 		
-		<img id="screenshot" src="img/example2.png" />
+		<img id="screenshot" src="img/example.png?v=2" />
 		
 		<p style="text-align:right; color: #ccc; padding-top: 10px; font-size: .9em">Yahoo.com shown above for demonstration purposes only</p>
 		
