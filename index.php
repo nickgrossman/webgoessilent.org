@@ -50,19 +50,19 @@ type="submit" type="submit" class="btn">Go</button>
  
  <div class="row">
 	 
-	 <div class="span2 offset1">
+	 <div class="span2 offset2">
 		 <a href="http://www.causes.com/causes/807161-stand-with-sandy-hook/actions/1716727"><img src="img/ribbon-150.png" /></a>
 	 </div>
-	 <div class="span4">
+	 <div class="span5">
 	 	Find more ways to support the Sandy Hook cause at <a href="http://www.causes.com/causes/807161-stand-with-sandy-hook/">this campaign on Causes</a>.
 	 </div>
  </div>
  <hr />
  <div class="row">
- 	 <div class="span2 offset1">
+ 	 <div class="span2 offset2">
  		 <a href="http://demandaplan.org"><img src="img/demandaplan.jpg" /></a>
  	 </div>
- 	 <div class="span4">
+ 	 <div class="span5">
  	 	Speak out and join the grassroots movement to end gun violence at <a href="http://demandaplan.org">Demand a Plan</a>.
  	 </div>
  </div>
@@ -70,7 +70,7 @@ type="submit" type="submit" class="btn">Go</button>
 <hr />
 	<div class="row">
 	
-	<div class="span4 offset3">
+	<div class="span5 offset4">
 			 <p><a href="http://wrkng.wufoo.com/forms/where-the-web-is-discussing-gun-violence/">Let us know</a> where else the web is having thoughtful discussions about gun violence and we will post links here.	</p>
 		</div>
 	</div>	
