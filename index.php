@@ -67,7 +67,7 @@ type="submit" type="submit" class="btn">Go</button>
  		 <a href="http://demandaplan.org"><img src="img/demandaplan.jpg" /></a>
  	 </div>
  	 <div class="span4">
- 	 	Find other ways to get involved at <a href="http://demandaplan.org">Demand a Plan</a>.
+ 	 	Speak out and join the grassroots movement to end gun violence at <a href="http://demandaplan.org">Demand a Plan</a>.
  	 </div>
  </div>
 
