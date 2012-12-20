@@ -92,33 +92,8 @@ type="submit" type="submit" class="btn">Go</button>
 	
 </section>
 
-<hr />
 
- 
- <section id="links">
- 
- <h3 id="links">Other ways to get involved:</h3><br />
- 
- <div class="row">
-	 
-	 <div class="span2">
-		 <a href="http://www.causes.com/causes/807161-stand-with-sandy-hook/actions/1716727"><img src="img/ribbon-150.png?v=2" /></a>
-	 <p>
-	 	Find more ways to support the Sandy Hook cause at <a href="http://www.causes.com/causes/807161-stand-with-sandy-hook/">this campaign on Causes</a>.
-	</p>
-</div>
 
- 	 <div class="span2">
- 		 <a href="http://demandaplan.org"><img src="img/mayors.png" /></a>
- 	 <p>
- 	 	Join the grassroots movement to end gun violence at <a href="http://demandaplan.org">Demand a Plan</a>.
- 	 </p>
- 	 </div>
- </div>
- 
- 
- 
-</section>
 
 	 
 <?php include('includes/footer.php'); ?>
